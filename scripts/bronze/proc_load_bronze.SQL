@@ -7,7 +7,7 @@ Script Purpose  : This store procedure loads data into bronze schema from extern
 				 - Use 'BULK INSERT' command to load the data from csv files and insert to bronze tables.
 
 Parameters		: NONE. This store procedure does not accept any parameter or return any values.
-Use Expame		: EXEC bronze.load_bronze;
+Use Example		: EXEC bronze.load_bronze;
 ===================================================================================================
 */
 
